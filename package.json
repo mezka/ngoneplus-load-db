@@ -1,0 +1,17 @@
+{
+  "name": "ngoneplus_load_db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "csv2sql-stream": "0.0.22",
+    "dotenv": "^8.2.0",
+    "massive": "^6.4.0",
+    "xlsx": "^0.16.0"
+  }
+}
